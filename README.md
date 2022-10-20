@@ -1,7 +1,5 @@
-# hw05-houdini-terrain
-
-## Goal
-Explore Houdini and get a basic understanding of the workflow and interface.
+# hw05 Houdini Terrain
+Let's explore Houdini and get a basic understanding of the workflow and interface.
 
 For this assignment, our resident Houdini expert Dan will provide a a simple Houdini network that spawns objects on a bit of terrain. It's not a terribly complex or interesting scene! Please experiment to make it more interesting :)
 
