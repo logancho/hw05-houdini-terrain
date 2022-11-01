@@ -1,3 +1,5 @@
+# Using late day! : )
+
 # hw05 Houdini Terrain
 Let's explore Houdini and get a basic understanding of the workflow and interface.
 
